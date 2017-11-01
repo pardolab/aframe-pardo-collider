@@ -1,6 +1,6 @@
 {
   "name": "aframe-pardo-collider-component",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A simple collider for detecting when two objects interact with each other",
   "main": "index.js",
   "unpkg": "dist/aframe-pardo-collider-component.min.js",
