@@ -1,3 +1,10 @@
+## THIS PACKAGE HAS BEEN DEPRECATED IN FAVOR OF:
+https://www.npmjs.com/package/aframe-aabb-collider-component
+
+Kevin's approach is faster, less memory intensive, and does a great job! 
+There is slight chance that we may retake the project in the future.
+
+<hr/>
 ## aframe-pardo-collider-component
 
 [![Version](http://img.shields.io/npm/v/aframe-pardo-collider-component.svg?style=flat-square)](https://npmjs.org/package/aframe-pardo-collider-component)
@@ -135,6 +142,8 @@ Assisgning to an entity that doesn't have an object3D (Like a blank entity) will
 ``` html
   <a-entity collider></a-entity>
 ```
+
+
 
 ### Limitations: 
 
